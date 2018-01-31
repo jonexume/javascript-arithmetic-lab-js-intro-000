@@ -28,6 +28,6 @@ return thought
 }
 
 function preserveDecimal(n) {
-  n = parseFloat('2.222', 10)
-  console.log(n)
+  var idea = parseFloat(n)
+  return idea
 }
