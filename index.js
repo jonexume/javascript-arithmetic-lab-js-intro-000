@@ -24,7 +24,7 @@ function dec(n) {
 function makeInt(n) {
   n = parseInt('900' , 10)
 
-  return n
+  console.log(n)
 }
 
 function preserveDecimal(n) {
