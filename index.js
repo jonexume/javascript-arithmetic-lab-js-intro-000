@@ -22,9 +22,9 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var thought = parseInt(n)
-
-return thought * 5
+n = '900'
+var thought = parseInt(n)
+return thought 
 }
 
 function preserveDecimal(n) {
