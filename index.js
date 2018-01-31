@@ -23,8 +23,10 @@ function dec(n) {
 
 function makeInt(n) {
   parseInt('20' , 10)
+  console.log(n)
 }
 
 function preserveDecimal(n) {
   parseFloat('2.222', 10)
+  console.log(n)
 }
