@@ -22,7 +22,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
-var thought = parseInt(n)
+var thought = parseInt(n, 10)
 return thought
 }
 
