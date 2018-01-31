@@ -22,7 +22,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-
 var thought = parseInt(n)
 return thought
 }
