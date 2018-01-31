@@ -22,8 +22,8 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  n = 20
-  parseInt('20' , 10)
+  parseInt(n)
+  
   console.log(n)
 }
 
