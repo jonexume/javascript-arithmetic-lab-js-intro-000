@@ -28,6 +28,6 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat('2.222', 10)
+  n = parseFloat('2.222', 10)
   console.log(n)
 }
